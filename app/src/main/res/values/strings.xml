@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultilingualApp</string>
+    <string name="hello_txt">Hello!</string>
+
+    <string name="eng">English</string>
+    <string name="ara">Arabic</string>
+    <string name="fr">French</string>
+</resources>

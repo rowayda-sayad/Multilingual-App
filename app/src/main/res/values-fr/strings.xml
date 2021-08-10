@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultilingualApp</string>
+    <string name="hello_txt">Salut!</string>
+
+    <string name="eng">Anglaise</string>
+    <string name="ara">Arabe</string>
+    <string name="fr">Français</string>
+
+</resources>
